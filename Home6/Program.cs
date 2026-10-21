@@ -54,8 +54,10 @@ namespace Home6
                 author1 = new Person("Taras", "Shevchenko", new DateTime(1999, 5, 10));
                 mag1 = new Magazine("My World", Frequency.Monthly, DateTime.Now, 5000, 20);
                 mag1.AddArticles(new Article(author1, "C# Language", 9.5));
+                mag1.AddArticles(new Article(author1, "Advanced OOP", 8.0));
                 mag2 = new Magazine("Shop", Frequency.Weekly, DateTime.Now, 12000, 8);
                 WriteLine(mag1);
+                WriteLine($"Average Rating: {mag1.AverageRating}");
                 WriteLine(mag2);
                 WriteLine();
                 WriteLine($"mag1 == mag2: {mag1 == mag2}");
