@@ -8,6 +8,7 @@ namespace Home7
     {
         private string name;
         private int duration;
+        
         public Course()
         {
             Name = "Unknown";
