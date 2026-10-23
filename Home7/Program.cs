@@ -1,4 +1,3 @@
-using static System.Console;
 namespace Home7
 {
     internal class Program
@@ -17,7 +16,7 @@ namespace Home7
         //    }
         //    catch (ArgumentException my)
         //    {
-        //        WriteLine("Argument Error: " + my.Message);
+        //        Console.WriteLine("Argument Error: " + my.Message);
         //    }
         //    catch (Exception ex)
         //    {
@@ -54,7 +53,7 @@ namespace Home7
         //    }
         //    catch (ArgumentException my)
         //    {
-        //        WriteLine("Argument Error: " + my.Message);
+        //       Console.WriteLine("Argument Error: " + my.Message);
         //    }
         //    catch (Exception ex)
         //    {
@@ -96,7 +95,7 @@ namespace Home7
             }
             catch (ArgumentException my)
             {
-                WriteLine("Argument Error: " + my.Message);
+                Console.WriteLine("Argument Error: " + my.Message);
             }
             catch (Exception ex)
             {
