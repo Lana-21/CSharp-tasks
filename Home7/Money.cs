@@ -8,6 +8,7 @@ namespace Home7
     {
         private int wholePart;
         private int coinPart;
+        
         public Money() {}
         public Money(int wholePart, int coinPart)
         {
