@@ -1,4 +1,4 @@
-namespace Practice8Interface
+namespace Practice8InterfaceHome8
 {
     internal class Program
     {
