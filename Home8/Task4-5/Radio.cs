@@ -7,7 +7,7 @@ namespace Home8
     public class Radio : IRemoteControl
     {
         private bool isOn = false;
-        private int currentChannel = 100;
+        private double currentChannel = 100.7;
 
         public void TurnOn()
         {
