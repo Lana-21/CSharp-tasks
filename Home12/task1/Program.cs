@@ -54,7 +54,6 @@ namespace Home12List
                         string updLogin = ReadLine();
                         Write("Enter new password: ");
                         string newPass = ReadLine();
-
                         if (authService.UpdatePassword(updLogin, newPass))
                             WriteLine("\nPassword successfully updated");
                         else WriteLine("\nError");
