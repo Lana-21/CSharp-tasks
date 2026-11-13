@@ -89,8 +89,8 @@ namespace Home16FILE
             string[] badWords = wordsText.Split(new char[] { ' ', ',', '.', '\n', '\t' }, StringSplitOptions.RemoveEmptyEntries);
             foreach (string word in badWords)
             {
-                string asterisks = new string('*', word.Length);
-                text = text.Replace(word, asterisks);
+                string star = new string('*', word.Length);
+                text = text.Replace(word, star);
             }
             File.WriteAllText(textFile.FullName, text);
             WriteLine(text);
