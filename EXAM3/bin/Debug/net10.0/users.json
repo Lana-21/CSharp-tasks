@@ -1,0 +1,44 @@
+[
+  {
+    "Username": "asd",
+    "Password": "123",
+    "BirthDate": "2010-10-01T00:00:00",
+    "Role": 1,
+    "IsAdmin": true
+  },
+  {
+    "Username": "zxc",
+    "Password": "456",
+    "BirthDate": "2010-10-10T00:00:00",
+    "Role": 0,
+    "IsAdmin": false
+  },
+  {
+    "Username": "qwe",
+    "Password": "456",
+    "BirthDate": "2010-10-10T00:00:00",
+    "Role": 0,
+    "IsAdmin": false
+  },
+  {
+    "Username": "iop",
+    "Password": "456",
+    "BirthDate": "2020-10-02T00:00:00",
+    "Role": 0,
+    "IsAdmin": false
+  },
+  {
+    "Username": "zzz",
+    "Password": "123",
+    "BirthDate": "2010-03-14T00:00:00",
+    "Role": 0,
+    "IsAdmin": false
+  },
+  {
+    "Username": "VBN",
+    "Password": "GGG",
+    "BirthDate": "2010-04-04T00:00:00",
+    "Role": 0,
+    "IsAdmin": false
+  }
+]

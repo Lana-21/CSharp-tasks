@@ -1,0 +1,157 @@
+2026-11-20 15:12:14.938 +02:00 [INF] Application started in EXAM3.
+2026-11-20 15:12:15.077 +02:00 [INF] Data load completed: 0 users, 3 categories, 18 answers, 0 results
+2026-11-20 15:12:22.900 +02:00 [INF] Failed registration attempt: empty login.
+2026-11-20 15:12:31.623 +02:00 [INF] Failed registration for gh: empty password
+2026-11-20 15:12:46.356 +02:00 [INF] User asd successfully registered (Role: "Admin")
+2026-11-20 15:12:59.454 +02:00 [INF] User asd logged out.
+2026-11-20 15:13:08.503 +02:00 [ERR] Unauthorized editor access attempt by user: fgh
+2026-11-20 15:13:37.880 +02:00 [INF] Administrator asd logged into Quiz Editor.
+2026-11-20 15:14:00.443 +02:00 [INF] Application started in EXAM3.
+2026-11-20 15:14:00.645 +02:00 [INF] Data load completed: 1 users, 3 categories, 18 answers, 0 results
+2026-11-20 15:14:11.358 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 15:14:11.359 +02:00 [INF] User asd successfully authorized
+2026-11-20 15:14:51.388 +02:00 [INF] User asd started quiz in category: Geography
+2026-11-20 15:15:19.834 +02:00 [INF] Application started in EXAM3.
+2026-11-20 15:15:19.984 +02:00 [INF] Data load completed: 1 users, 3 categories, 18 answers, 0 results
+2026-11-20 15:15:25.950 +02:00 [INF] Failed registration for zxc: password mismatch
+2026-11-20 15:15:47.636 +02:00 [INF] User zxc successfully registered (Role: "Player")
+2026-11-20 15:16:06.887 +02:00 [INF] User zxc logged out.
+2026-11-20 15:16:17.760 +02:00 [INF] Failed registration for qwe: invalid birth date format
+2026-11-20 15:16:34.080 +02:00 [INF] Failed registration for qwe: invalid birth date format
+2026-11-20 15:48:55.889 +02:00 [INF] Application started in EXAM3.
+2026-11-20 15:48:56.150 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 0 results
+2026-11-20 15:49:11.925 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 15:49:11.927 +02:00 [INF] User asd successfully authorized
+2026-11-20 15:49:43.343 +02:00 [INF] Settings successfully updated for asd
+2026-11-20 15:50:15.807 +02:00 [INF] Settings successfully updated for asd
+2026-11-20 16:27:09.109 +02:00 [INF] Application started in EXAM3.
+2026-11-20 16:27:09.378 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 0 results
+2026-11-20 16:27:17.619 +02:00 [INF] Authorization attempt for: zxc
+2026-11-20 16:27:17.621 +02:00 [INF] User zxc successfully authorized
+2026-11-20 16:27:39.330 +02:00 [INF] User zxc started quiz in category: History
+2026-11-20 16:28:10.450 +02:00 [INF] Result for user zxc appended and saved to JSON.
+2026-11-20 16:28:10.455 +02:00 [INF] User zxc completed quiz History. Score: 4/5. Rank: 1
+2026-11-20 16:28:20.613 +02:00 [INF] User zxc started quiz in category: History
+2026-11-20 16:28:50.047 +02:00 [INF] Result for user zxc appended and saved to JSON.
+2026-11-20 16:28:50.050 +02:00 [INF] User zxc completed quiz History. Score: 3/5. Rank: 2
+2026-11-20 16:29:20.485 +02:00 [INF] User zxc started quiz in category: History
+2026-11-20 16:29:36.243 +02:00 [INF] Result for user zxc appended and saved to JSON.
+2026-11-20 16:29:36.245 +02:00 [INF] User zxc completed quiz History. Score: 2/5. Rank: 3
+2026-11-20 16:30:27.002 +02:00 [INF] User zxc started quiz in category: History
+2026-11-20 16:31:03.108 +02:00 [INF] Result for user zxc appended and saved to JSON.
+2026-11-20 16:31:03.111 +02:00 [INF] User zxc completed quiz History. Score: 4/5. Rank: 2
+2026-11-20 16:31:53.639 +02:00 [INF] Application started in EXAM3.
+2026-11-20 16:31:53.860 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 4 results
+2026-11-20 16:32:01.727 +02:00 [INF] Authorization attempt for: zxc
+2026-11-20 16:32:01.728 +02:00 [INF] User zxc successfully authorized
+2026-11-20 16:32:05.416 +02:00 [INF] User zxc logged out.
+2026-11-20 16:32:16.021 +02:00 [ERR] Unauthorized editor access attempt by user: zxc
+2026-11-20 16:44:44.805 +02:00 [INF] Application started in EXAM3.
+2026-11-20 16:44:45.022 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 4 results
+2026-11-20 16:44:55.620 +02:00 [INF] Administrator asd logged into Quiz Editor.
+2026-11-20 17:17:25.144 +02:00 [INF] Application started in EXAM3.
+2026-11-20 17:17:25.366 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 4 results
+2026-11-20 17:17:30.647 +02:00 [INF] Failed registration attempt: empty login.
+2026-11-20 17:17:39.089 +02:00 [INF] Failed registration attempt: user asd already exists.
+2026-11-20 17:17:45.523 +02:00 [INF] Failed registration for qwe: empty password
+2026-11-20 17:18:07.271 +02:00 [INF] Failed registration for qwe: password mismatch
+2026-11-20 17:18:16.555 +02:00 [INF] Failed registration for qwe: invalid birth date format
+2026-11-20 17:20:55.748 +02:00 [INF] Application started in EXAM3.
+2026-11-20 17:20:56.002 +02:00 [INF] Data load completed: 2 users, 3 categories, 18 answers, 4 results
+2026-11-20 17:21:01.882 +02:00 [INF] Failed registration for fdf: password mismatch
+2026-11-20 17:21:13.048 +02:00 [INF] Failed registration for qwe: password mismatch
+2026-11-20 17:21:27.246 +02:00 [INF] User qwe successfully registered (Role: "Player")
+2026-11-20 17:33:12.784 +02:00 [INF] Application started in EXAM3.
+2026-11-20 17:33:12.922 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 17:33:31.098 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 17:33:31.100 +02:00 [INF] User asd successfully authorized
+2026-11-20 17:33:37.674 +02:00 [INF] Failed settings change attempt for asd: wrong current password.
+2026-11-20 17:34:05.160 +02:00 [INF] Settings update for asd: No changes were saved.
+2026-11-20 17:38:30.112 +02:00 [INF] Application started in EXAM3.
+2026-11-20 17:38:30.269 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 18:22:02.381 +02:00 [INF] Application started in EXAM3.
+2026-11-20 18:22:02.552 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 18:34:06.803 +02:00 [INF] Application started in EXAM3.
+2026-11-20 18:34:06.978 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 18:34:21.479 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 18:34:21.481 +02:00 [INF] User asd successfully authorized
+2026-11-20 18:35:12.085 +02:00 [INF] Application started in EXAM3.
+2026-11-20 18:35:12.208 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 18:35:33.811 +02:00 [INF] Authorization attempt for: zxc
+2026-11-20 18:35:33.813 +02:00 [INF] User zxc successfully authorized
+2026-11-20 18:36:25.246 +02:00 [INF] Settings successfully updated for zxc
+2026-11-20 18:39:52.385 +02:00 [INF] Application started in EXAM3.
+2026-11-20 18:39:52.552 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 4 results
+2026-11-20 18:40:21.228 +02:00 [INF] Authorization attempt for: zxc
+2026-11-20 18:40:21.230 +02:00 [INF] User zxc successfully authorized
+2026-11-20 18:40:25.093 +02:00 [INF] User zxc logged out.
+2026-11-20 18:40:31.574 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 18:40:31.574 +02:00 [INF] User asd successfully authorized
+2026-11-20 18:40:40.537 +02:00 [INF] User asd started quiz in category: History
+2026-11-20 18:41:48.794 +02:00 [INF] Result for user asd appended and saved to JSON.
+2026-11-20 18:41:48.800 +02:00 [INF] User asd completed quiz History. Score: 4/5. Rank: 3
+2026-11-20 18:42:30.606 +02:00 [INF] User asd logged out.
+2026-11-20 18:42:38.981 +02:00 [ERR] Unauthorized editor access attempt by user: zxc
+2026-11-20 18:42:47.798 +02:00 [INF] Administrator asd logged into Quiz Editor.
+2026-11-20 18:43:38.139 +02:00 [INF] Admin added question to 'qwewqrqr'.
+2026-11-20 18:44:55.687 +02:00 [INF] Admin deleted question ID 19.
+2026-11-20 18:52:21.336 +02:00 [INF] Application started in EXAM3.
+2026-11-20 18:52:21.511 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 5 results
+2026-11-20 18:52:28.228 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 18:52:28.230 +02:00 [INF] User asd successfully authorized
+2026-11-20 18:52:40.343 +02:00 [INF] Settings update for asd: No changes were saved.
+2026-11-20 18:53:11.081 +02:00 [INF] Settings successfully updated for asd
+2026-11-20 18:59:38.247 +02:00 [INF] User asd started quiz in category: Geography
+2026-11-20 19:03:19.994 +02:00 [INF] Application started in EXAM3.
+2026-11-20 19:03:20.142 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 5 results
+2026-11-20 19:03:28.417 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 19:03:28.418 +02:00 [INF] User asd successfully authorized
+2026-11-20 19:03:32.971 +02:00 [INF] User asd started quiz in category: Geography
+2026-11-20 19:07:42.647 +02:00 [INF] Application started in EXAM3.
+2026-11-20 19:07:42.881 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 5 results
+2026-11-20 19:07:56.065 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 19:07:56.066 +02:00 [INF] User asd successfully authorized
+2026-11-20 19:08:08.812 +02:00 [INF] User asd started quiz in category: Geography
+2026-11-20 19:08:34.092 +02:00 [INF] Result for user asd appended and saved to JSON.
+2026-11-20 19:08:34.096 +02:00 [INF] User asd completed quiz Geography. Score: 3/5. Rank: 1
+2026-11-20 19:09:04.637 +02:00 [INF] User asd started quiz in category: Geography
+2026-11-20 19:09:25.554 +02:00 [INF] Result for user asd appended and saved to JSON.
+2026-11-20 19:09:25.557 +02:00 [INF] User asd completed quiz Geography. Score: 5/5. Rank: 1
+2026-11-20 19:12:03.565 +02:00 [INF] Application started in EXAM3.
+2026-11-20 19:12:03.707 +02:00 [INF] Data load completed: 3 users, 3 categories, 18 answers, 7 results
+2026-11-20 19:12:51.045 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 19:12:51.046 +02:00 [INF] User asd successfully authorized
+2026-11-20 19:13:23.981 +02:00 [INF] User asd logged out.
+2026-11-20 19:13:35.841 +02:00 [INF] Failed registration attempt: user qwe already exists.
+2026-11-20 19:14:02.965 +02:00 [INF] User iop successfully registered (Role: "Player")
+2026-11-20 19:14:33.739 +02:00 [INF] User iop logged out.
+2026-11-20 19:14:50.719 +02:00 [INF] Failed registration attempt: empty login.
+2026-11-20 19:15:56.610 +02:00 [INF] Failed registration for jkl: password mismatch
+2026-11-20 19:16:35.430 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 19:16:35.430 +02:00 [INF] User asd successfully authorized
+2026-11-20 19:18:56.506 +02:00 [INF] User asd started quiz in category: Biology
+2026-11-20 19:20:11.212 +02:00 [INF] Result for user asd appended and saved to JSON.
+2026-11-20 19:20:11.217 +02:00 [INF] User asd completed quiz Biology. Score: 2/5. Rank: 1
+2026-11-20 19:22:35.812 +02:00 [INF] Failed settings change attempt for asd: wrong current password.
+2026-11-20 19:23:08.774 +02:00 [INF] Settings successfully updated for asd
+2026-11-20 19:23:36.089 +02:00 [INF] User asd logged out.
+2026-11-20 19:24:09.919 +02:00 [ERR] Unauthorized editor access attempt by user: ASD
+2026-11-20 19:24:25.610 +02:00 [INF] Authorization attempt for: asd
+2026-11-20 19:24:25.611 +02:00 [INF] User asd successfully authorized
+2026-11-20 19:24:28.882 +02:00 [INF] User asd logged out.
+2026-11-20 19:24:35.015 +02:00 [INF] Administrator asd logged into Quiz Editor.
+2026-11-20 19:27:42.057 +02:00 [INF] Admin added question to 'history'.
+2026-11-20 19:28:35.167 +02:00 [INF] Admin deleted question ID 19.
+2026-11-20 19:28:59.717 +02:00 [INF] User exited application.
+2026-11-20 20:03:33.298 +02:00 [INF] Application started in EXAM3.
+2026-11-20 20:03:33.472 +02:00 [INF] Data load completed: 4 users, 3 categories, 18 answers, 8 results
+2026-11-20 20:05:10.074 +02:00 [INF] User zzz successfully registered (Role: "Player")
+2026-11-20 20:05:19.682 +02:00 [INF] Authorization attempt for: zzz
+2026-11-20 20:05:19.683 +02:00 [INF] User zzz successfully authorized
+2026-11-20 20:05:47.255 +02:00 [INF] User zzz logged out.
+2026-11-20 20:05:59.738 +02:00 [INF] Authorization attempt for: zzz
+2026-11-20 20:05:59.739 +02:00 [INF] User zzz successfully authorized
+2026-11-20 20:38:58.701 +02:00 [INF] Application started in EXAM3.
+2026-11-20 20:38:58.909 +02:00 [INF] Data load completed: 5 users, 3 categories, 18 answers, 8 results
+2026-11-20 20:44:57.739 +02:00 [INF] Application started in EXAM3.
+2026-11-20 20:44:57.892 +02:00 [INF] Data load completed: 5 users, 3 categories, 18 answers, 8 results

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcMa0J4G49g=",
+  "success": true,
+  "projectFilePath": "C:\\IT\\621\\C#\\EXAM3\\EXAM3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\serilog\\4.4.0\\serilog.4.4.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

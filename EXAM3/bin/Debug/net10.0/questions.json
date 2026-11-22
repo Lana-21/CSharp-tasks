@@ -1,0 +1,233 @@
+[
+  {
+    "Category": "History",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "In what year was the Act of Declaration of Independence of Ukraine proclaimed?",
+        "Options": {
+          "A": "1990",
+          "B": "1991",
+          "C": "1996",
+          "D": "1989"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 2,
+        "Text": "Who among the following was a Hetman of the Zaporozhian Host? (select all correct options)",
+        "Options": {
+          "A": "Bohdan Khmelnytsky",
+          "B": "Ivan Mazepa",
+          "C": "Taras Shevchenko",
+          "D": "Pylyp Orlyk"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 3,
+        "Text": "Which city was the capital of Kyivan Rus?",
+        "Options": {
+          "A": "Chernihiv",
+          "B": "Lviv",
+          "C": "Kyiv",
+          "D": "Halych"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 4,
+        "Text": "In what year did the Christianization of Kyivan Rus take place?",
+        "Options": {
+          "A": "988",
+          "B": "882",
+          "C": "1036",
+          "D": "1240"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 5,
+        "Text": "Which states participated in the Partitions of the Polish-Lithuanian Commonwealth in the late 18th century? (select all correct options)",
+        "Options": {
+          "A": "Russian Empire",
+          "B": "Kingdom of Prussia",
+          "C": "Austrian Monarchy",
+          "D": "Ottoman Empire"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 6,
+        "Text": "In what year was the Constitution of Ukraine adopted?",
+        "Options": {
+          "A": "1991",
+          "B": "1996",
+          "C": "2004",
+          "D": "1995"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      }
+    ]
+  },
+  {
+    "Category": "Geography",
+    "Questions": [
+      {
+        "Id": 7,
+        "Text": "What is the highest peak of the Ukrainian Carpathians?",
+        "Options": {
+          "A": "Petros",
+          "B": "Hoverla",
+          "C": "Pip Ivan",
+          "D": "Brebeneskul"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 8,
+        "Text": "Which seas wash the territory of Ukraine? (select all correct options)",
+        "Options": {
+          "A": "Black Sea",
+          "B": "Sea of Azov",
+          "C": "Baltic Sea",
+          "D": "Mediterranean Sea"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 9,
+        "Text": "Which river is the longest in Ukraine?",
+        "Options": {
+          "A": "Dniester",
+          "B": "Southern Bug",
+          "C": "Dnieper",
+          "D": "Siverskyi Donets"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 10,
+        "Text": "Which continent is the largest by area on Earth?",
+        "Options": {
+          "A": "Africa",
+          "B": "North America",
+          "C": "Eurasia",
+          "D": "South America"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 11,
+        "Text": "With which countries does Ukraine share a land border? (select all correct options)",
+        "Options": {
+          "A": "Poland",
+          "B": "Romania",
+          "C": "Bulgaria",
+          "D": "Hungary"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 12,
+        "Text": "Which ocean is the largest on Earth?",
+        "Options": {
+          "A": "Atlantic Ocean",
+          "B": "Indian Ocean",
+          "C": "Pacific Ocean",
+          "D": "Arctic Ocean"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      }
+    ]
+  },
+  {
+    "Category": "Biology",
+    "Questions": [
+      {
+        "Id": 13,
+        "Text": "Which cell organelle is responsible for ATP synthesis?",
+        "Options": {
+          "A": "Ribosome",
+          "B": "Mitochondrion",
+          "C": "Lysosome",
+          "D": "Golgi apparatus"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 14,
+        "Text": "How many chromosomes are in a normal human somatic cell?",
+        "Options": {
+          "A": "23",
+          "B": "44",
+          "C": "46",
+          "D": "48"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 15,
+        "Text": "Which pigment gives plants their green color and participates in photosynthesis?",
+        "Options": {
+          "A": "Carotene",
+          "B": "Chlorophyll",
+          "C": "Hemoglobin",
+          "D": "Melanin"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 16,
+        "Text": "Which nitrogenous bases are part of the DNA molecule? (select all correct options)",
+        "Options": {
+          "A": "Adenine",
+          "B": "Thymine",
+          "C": "Uracil",
+          "D": "Guanine"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 17,
+        "Text": "Which blood cells carry oxygen throughout the body?",
+        "Options": {
+          "A": "Leukocytes",
+          "B": "Erythrocytes",
+          "C": "Platelets",
+          "D": "Lymphocytes"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      },
+      {
+        "Id": 18,
+        "Text": "Which of the listed organisms are mammals? (select all correct options)",
+        "Options": {
+          "A": "Dolphin",
+          "B": "Bat",
+          "C": "Shark",
+          "D": "Blue whale"
+        },
+        "CorrectOptions": [],
+        "IsMultipleChoice": false
+      }
+    ]
+  }
+]

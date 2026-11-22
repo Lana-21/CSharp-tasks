@@ -1,0 +1,34 @@
+2026-11-22 16:25:06.675 +02:00 [INF] Application started in EXAM3.
+2026-11-22 16:25:06.828 +02:00 [INF] Data load completed: 5 users, 3 categories, 18 answers, 8 results
+2026-11-22 16:25:27.332 +02:00 [INF] Authorization attempt for: ASD
+2026-11-22 16:25:27.333 +02:00 [INF] User ASD successfully authorized
+2026-11-22 16:25:47.401 +02:00 [INF] Failed settings change attempt for asd: wrong current password.
+2026-11-22 16:25:55.721 +02:00 [INF] Settings update for asd: No changes were saved.
+2026-11-22 16:26:00.448 +02:00 [INF] User asd logged out.
+2026-11-22 16:26:16.026 +02:00 [INF] User VBN successfully registered (Role: "Player")
+2026-11-22 16:26:26.920 +02:00 [INF] Authorization attempt for: VBN
+2026-11-22 16:26:26.921 +02:00 [INF] User VBN successfully authorized
+2026-11-22 16:26:45.559 +02:00 [INF] User VBN started quiz in category: Mixed
+2026-11-22 16:27:15.557 +02:00 [INF] Result for user VBN appended and saved to JSON.
+2026-11-22 16:27:15.560 +02:00 [INF] User VBN completed quiz Mixed. Score: 3/5. Rank: 1
+2026-11-22 16:27:31.371 +02:00 [INF] User VBN logged out.
+2026-11-22 16:27:42.898 +02:00 [ERR] Unauthorized editor access attempt by user: ASD
+2026-11-22 17:48:17.811 +02:00 [INF] Application started in EXAM3.
+2026-11-22 17:48:18.050 +02:00 [INF] Data load completed: 6 users, 3 categories, 18 answers, 9 results
+2026-11-22 17:49:03.837 +02:00 [INF] Authorization attempt for: ASD
+2026-11-22 17:49:03.839 +02:00 [INF] User ASD successfully authorized
+2026-11-22 17:49:10.748 +02:00 [INF] User asd logged out.
+2026-11-22 17:49:17.885 +02:00 [INF] Administrator asd logged into Quiz Editor.
+2026-11-22 17:49:39.285 +02:00 [INF] Authorization attempt for: 
+2026-11-22 17:49:39.286 +02:00 [INF] Failed authorization attempt for: 
+2026-11-22 17:49:46.215 +02:00 [INF] Failed registration attempt: user VBN already exists.
+2026-11-22 17:50:02.479 +02:00 [INF] Authorization attempt for: BNM
+2026-11-22 17:50:02.480 +02:00 [INF] Failed authorization attempt for: BNM
+2026-11-22 17:50:17.344 +02:00 [INF] Authorization attempt for: BNM
+2026-11-22 17:50:17.345 +02:00 [INF] Failed authorization attempt for: BNM
+2026-11-22 17:50:28.205 +02:00 [INF] Authorization attempt for: VBN
+2026-11-22 17:50:28.206 +02:00 [INF] User VBN successfully authorized
+2026-11-22 17:50:33.780 +02:00 [INF] User VBN started quiz in category: Geography
+2026-11-22 17:51:21.409 +02:00 [INF] Result for user VBN appended and saved to JSON.
+2026-11-22 17:51:21.414 +02:00 [INF] User VBN completed quiz Geography. Score: 5/5. Rank: 2
+2026-11-22 17:52:00.901 +02:00 [INF] User exited application from main menu.
