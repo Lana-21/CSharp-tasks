@@ -97,9 +97,7 @@ namespace EXAM3.Services
             store.Users.Add(newUser);
             files.SaveUsers();  
             WriteLine("\nSUCCESS");
-            WriteLine(newUser.Role == UserRole.Admin
-                ? "You are registered as the Administrator."
-                : "You can now log in.");
+            WriteLine(newUser.Role == UserRole.Admin ? "You are registered as the Administrator." : "You can now log in.");
             Log.Information("User {Login} successfully registered (Role: {Role})", login, newUser.Role);
         }
         public void Login()
@@ -121,8 +119,7 @@ namespace EXAM3.Services
                 var loginAttempt = new LoginDto(inputLogin, inputPassword);
                 Log.Information("Authorization attempt for: {Login}", loginAttempt.Login);
                 CurrentUser = store.Users.FirstOrDefault(u =>
-                    u.Username.Equals(loginAttempt.Login, StringComparison.OrdinalIgnoreCase) &&
-                    u.Password == loginAttempt.Password);
+                    u.Username.Equals(loginAttempt.Login, StringComparison.OrdinalIgnoreCase) && u.Password == loginAttempt.Password);
                 if (CurrentUser != null)
                 {
                     WriteLine($"\nSUCCESS! Authorized as {CurrentUser.Username}");
