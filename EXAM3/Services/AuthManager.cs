@@ -17,9 +17,7 @@ namespace EXAM3.Services
             {
                 Clear();
                 WriteLine("NEW USER REGISTRATION");
-                if (!TryReadLogin(out string login) ||
-                    !TryReadPassword(login, out string password) ||
-                    !TryReadBirthDate(login, out DateTime birthDate))
+                if (!TryReadLogin(out string login) || !TryReadPassword(login, out string password) || !TryReadBirthDate(login, out DateTime birthDate))
                 {
                     Pause();
                     return;
@@ -118,8 +116,7 @@ namespace EXAM3.Services
                 string inputPassword = ReadLine() ?? "";
                 var loginAttempt = new LoginDto(inputLogin, inputPassword);
                 Log.Information("Authorization attempt for: {Login}", loginAttempt.Login);
-                CurrentUser = store.Users.FirstOrDefault(u =>
-                    u.Username.Equals(loginAttempt.Login, StringComparison.OrdinalIgnoreCase) && u.Password == loginAttempt.Password);
+                CurrentUser = store.Users.FirstOrDefault(u => u.Username.Equals(loginAttempt.Login, StringComparison.OrdinalIgnoreCase) && u.Password == loginAttempt.Password);
                 if (CurrentUser != null)
                 {
                     WriteLine($"\nSUCCESS! Authorized as {CurrentUser.Username}");
