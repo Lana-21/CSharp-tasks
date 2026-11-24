@@ -108,7 +108,7 @@ namespace EXAM3.Services
                 WriteLine($"At least one valid option letter required! Available: {string.Join(", ", options.Keys)}");
             }
             SaveNewQuestion(cat, text, options, correct);
-            Log.Information("Admin added question to '{Category}'.", cat);
+            Log.Information("Admin added question to {Category}.", cat);
             ShowMessage("\nQuestion successfully added!");
         }
         private void DeleteQuestion()
